@@ -312,7 +312,7 @@
 #q--3
 f = open('PYTHON.txt', 'w')
 
-description = ['we either choose the pain of discipline \n',
+description = ['we nit choose the pain of discipline \n',
                'or\n',
                'the pain of regret\n']
 
